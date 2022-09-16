@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo! Sou o MATHEUS ##
+## Olá, Seja bem vindo! Sou o MATHEUS DE SOUSA ##
 <h3>Sou freelancer✈</h3>
 <h3>Front-End📈⏳</h3>
 <div align="left">
