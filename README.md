@@ -3,11 +3,9 @@
 <h3>Sou freelancer✈</h3>
 <h3>Front-End📈⏳</h3>
 #🪢🔙🔄️#
-
-
 <div align="left">
   <a href="https://github.com/matheussousa">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=matheussousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=matheussousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussousa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
